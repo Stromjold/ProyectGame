@@ -18,8 +18,12 @@ Tras regresar de una clase de artes marciales, los hermanos Derek (17) y Sam (8)
 
 # Roles y responsabilidades
 
+## Lider de proyecto (Derek)
 - **Gerente de Aseguramiento de Calidad:** Derek
 - **Director de Diseño y Narrativa:** Luis y Gretchen
 - **Director de Arte Visual:** Cossio
 - **Director de Audio:** Martin
 - **Director Técnico (Programación Lead):** Gretchen y Derek
+
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/7c243eab-b4cb-4165-8c14-952c8d2ec9d6" />
+
